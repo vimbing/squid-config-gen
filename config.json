@@ -1,0 +1,19 @@
+{
+    "subnets": [
+        "1.1.1.0/24"
+    ],
+    "netplanInterfaceName": "eth0",
+    "netplanGetway": "",
+    "netplanNameServers": [
+        ""
+    ],
+    "netplanOtherAddressess": [
+        ""
+    ],
+    "squid": {
+        "startPort": 26423,
+        "authFilePath": "/etc/squid/passwords",
+        "userChunkSize": 2,
+        "chunksPerPort": 2
+    }
+}
