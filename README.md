@@ -1,0 +1,1 @@
+Simply fill config.json with your data and script will do everything for you (generates credential files for squid, netplan config and writes proxies to file). I'm open sourcing becouse I think that might be useful for someone:)
